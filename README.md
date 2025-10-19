@@ -16,8 +16,6 @@
 - 🌱 I’m currently learning **Cyber Security & Ethical Hacking**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NafTasmi](https://github.com/NafTasmi)
-
-- 📫 How to reach me **nafisatasmiya@gmail.com**
 <br>
 
 <h3 align="left">Connect with me:</h3>
